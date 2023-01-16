@@ -5,6 +5,7 @@ export default function NavBar() {
     <div>
       NavBar
       <p> Logo</p>
+      <p> sub navbar</p>
     </div>
   );
 }
